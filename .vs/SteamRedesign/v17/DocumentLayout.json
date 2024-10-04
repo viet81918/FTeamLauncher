@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|c:\\users\\fpt\\downloads\\steam-redesign-main\\steam-redesign-main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|c:\\users\\fpt\\downloads\\steam-redesign-main\\steam-redesign-main\\assets\\icons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:assets\\icons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|c:\\users\\fpt\\downloads\\steam-redesign-main\\steam-redesign-main\\assets\\dh2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:assets\\dh2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|c:\\users\\fpt\\downloads\\steam-redesign-main\\steam-redesign-main\\assets\\bf1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:assets\\bf1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "icons.xaml",
+              "DocumentMoniker": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\Assets\\icons.xaml",
+              "RelativeDocumentMoniker": "Assets\\icons.xaml",
+              "ToolTip": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\Assets\\icons.xaml",
+              "RelativeToolTip": "Assets\\icons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T14:31:45.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dh2.jpg - Bitmap [253x347, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\Assets\\dh2.jpg",
+              "RelativeDocumentMoniker": "Assets\\dh2.jpg",
+              "ToolTip": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\Assets\\dh2.jpg - Bitmap [253x347, 24 bit, JPG]",
+              "RelativeToolTip": "Assets\\dh2.jpg - Bitmap [253x347, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-02T14:31:44.415Z",
+              "EditorCaption": " - Bitmap [253x347, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bf1.jpg - Bitmap [398x600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\Assets\\bf1.jpg",
+              "RelativeDocumentMoniker": "Assets\\bf1.jpg",
+              "ToolTip": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\Assets\\bf1.jpg - Bitmap [398x600, 24 bit, JPG]",
+              "RelativeToolTip": "Assets\\bf1.jpg - Bitmap [398x600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-02T14:31:41.549Z",
+              "EditorCaption": " - Bitmap [398x600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:31:30.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-15T19:15:21.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\fpt\\Downloads\\Steam-Redesign-main\\Steam-Redesign-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-15T19:12:55.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
