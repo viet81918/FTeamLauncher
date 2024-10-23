@@ -22,3 +22,27 @@ C:\Users\fpt\Downloads\Steam-Redesign-main\Steam-Redesign-main\obj\Debug\SteamRe
 C:\Users\fpt\Downloads\Steam-Redesign-main\Steam-Redesign-main\obj\Debug\SteamRedesign.csproj.CoreCompileInputs.cache
 C:\Users\fpt\Downloads\Steam-Redesign-main\Steam-Redesign-main\obj\Debug\SteamRedesign.exe
 C:\Users\fpt\Downloads\Steam-Redesign-main\Steam-Redesign-main\obj\Debug\SteamRedesign.pdb
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\bin\Debug\SteamRedesign.exe.config
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\bin\Debug\SteamRedesign.exe
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\bin\Debug\SteamRedesign.pdb
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\SteamRedesign.csproj.AssemblyReference.cache
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\Assets\icons.baml
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\CC\filterItems.g.cs
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\CC\tags.g.cs
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\CC\TrendingCards.g.cs
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\MainWindow.g.cs
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\App.g.cs
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\SteamRedesign_MarkupCompile.cache
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\SteamRedesign_MarkupCompile.lref
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\App.baml
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\CC\filterItems.baml
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\CC\tags.baml
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\CC\TrendingCards.baml
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\MainWindow.baml
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\SteamRedesign.g.resources
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\SteamRedesign.Properties.Resources.resources
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\SteamRedesign.csproj.GenerateResource.cache
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\SteamRedesign.csproj.CoreCompileInputs.cache
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\SteamRedesign.exe
+E:\FPT UNI\OJT\MOCK\FTeamLauncher\obj\Debug\SteamRedesign.pdb
