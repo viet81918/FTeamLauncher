@@ -1,76 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\",
+  "WorkspaceRootPath": "E:\\FPT UNI\\OJT\\MOCK\\FTeamLauncher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\loginui\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:loginui\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\loginui\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|e:\\fpt uni\\ojt\\mock\\fteamlauncher\\loginui\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:loginui\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|d:\\asus\\vs\\sourse\\fteamlauncher\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|E:\\FPT UNI\\OJT\\MOCK\\FTeamLauncher\\loginui\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:loginui\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\cc\\textboxwithplaceholder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:cc\\textboxwithplaceholder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F53A2883-DD36-4DB7-88EF-677DCF76CA75}|..\\ProjectObjects\\ProjectObjects.csproj|d:\\asus\\vs\\sourse\\projectobjects\\accountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\cc\\tags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:cc\\tags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F53A2883-DD36-4DB7-88EF-677DCF76CA75}|..\\ProjectObjects\\ProjectObjects.csproj|d:\\asus\\vs\\sourse\\projectobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\cc\\trendingcards.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:cc\\trendingcards.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\cc\\filteritems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:cc\\filteritems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|E:\\FPT UNI\\OJT\\MOCK\\FTeamLauncher\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\cc\\textboxwithplaceholder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:cc\\textboxwithplaceholder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\assets\\icons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:assets\\icons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\assets\\dh2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:assets\\dh2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\assets\\bf1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{46A6E789-18C0-417C-8D54-B3EC40015FA3}|SteamRedesign.csproj|solutionrelative:assets\\bf1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,24 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
@@ -111,227 +37,47 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "E:\\FPT UNI\\OJT\\MOCK\\FTeamLauncher\\LoginUI\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "LoginUI\\LoginPage.xaml",
+              "ToolTip": "E:\\FPT UNI\\OJT\\MOCK\\FTeamLauncher\\LoginUI\\LoginPage.xaml",
+              "RelativeToolTip": "LoginUI\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T09:13:05.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\LoginUI\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "LoginUI\\LoginPage.xaml",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\LoginUI\\LoginPage.xaml",
-              "RelativeToolTip": "LoginUI\\LoginPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-13T12:26:27.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountUser.cs",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\ProjectObjects\\AccountUser.cs",
-              "RelativeDocumentMoniker": "..\\ProjectObjects\\AccountUser.cs",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\ProjectObjects\\AccountUser.cs",
-              "RelativeToolTip": "..\\ProjectObjects\\AccountUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:15:36.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "tags.xaml",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\tags.xaml",
-              "RelativeDocumentMoniker": "CC\\tags.xaml",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\tags.xaml",
-              "RelativeToolTip": "CC\\tags.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-13T12:50:25.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-15T19:15:21.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\LoginUI\\LoginPage.xaml.cs",
+              "DocumentMoniker": "E:\\FPT UNI\\OJT\\MOCK\\FTeamLauncher\\LoginUI\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "LoginUI\\LoginPage.xaml.cs",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\LoginUI\\LoginPage.xaml.cs",
+              "ToolTip": "E:\\FPT UNI\\OJT\\MOCK\\FTeamLauncher\\LoginUI\\LoginPage.xaml.cs",
               "RelativeToolTip": "LoginUI\\LoginPage.xaml.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDgAAABBAAAAAAAAAA==",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:29:26.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T09:13:07.177Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-13T13:13:07.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TextBoxWithPlaceHolder.xaml",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\TextBoxWithPlaceHolder.xaml",
-              "RelativeDocumentMoniker": "CC\\TextBoxWithPlaceHolder.xaml",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\TextBoxWithPlaceHolder.xaml",
-              "RelativeToolTip": "CC\\TextBoxWithPlaceHolder.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-13T12:28:36.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-15T19:12:55.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\ProjectObjects\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ProjectObjects\\Program.cs",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\ProjectObjects\\Program.cs",
-              "RelativeToolTip": "..\\ProjectObjects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:15:03.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TrendingCards.xaml",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\TrendingCards.xaml",
-              "RelativeDocumentMoniker": "CC\\TrendingCards.xaml",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\TrendingCards.xaml",
-              "RelativeToolTip": "CC\\TrendingCards.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-13T12:50:27.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "Login.xaml.cs",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Login.xaml.cs",
-              "RelativeToolTip": "Login.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:25:32.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TextBoxWithPlaceHolder.xaml.cs",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\TextBoxWithPlaceHolder.xaml.cs",
-              "RelativeDocumentMoniker": "CC\\TextBoxWithPlaceHolder.xaml.cs",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\TextBoxWithPlaceHolder.xaml.cs",
-              "RelativeToolTip": "CC\\TextBoxWithPlaceHolder.xaml.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowDYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:30:01.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "filterItems.xaml",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\filterItems.xaml",
-              "RelativeDocumentMoniker": "CC\\filterItems.xaml",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\CC\\filterItems.xaml",
-              "RelativeToolTip": "CC\\filterItems.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-13T12:50:21.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Login.xaml",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Login.xaml",
+              "DocumentMoniker": "E:\\FPT UNI\\OJT\\MOCK\\FTeamLauncher\\Login.xaml",
               "RelativeDocumentMoniker": "Login.xaml",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Login.xaml",
+              "ToolTip": "E:\\FPT UNI\\OJT\\MOCK\\FTeamLauncher\\Login.xaml",
               "RelativeToolTip": "Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-13T12:24:56.604Z"
+              "WhenOpened": "2024-10-23T09:13:02.524Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:31:30.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "dh2.jpg - Bitmap [253x347, 24 bit, JPG]",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Assets\\dh2.jpg",
-              "RelativeDocumentMoniker": "Assets\\dh2.jpg",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Assets\\dh2.jpg - Bitmap [253x347, 24 bit, JPG]",
-              "RelativeToolTip": "Assets\\dh2.jpg - Bitmap [253x347, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-10-02T14:31:44.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "bf1.jpg - Bitmap [398x600, 24 bit, JPG]",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Assets\\bf1.jpg",
-              "RelativeDocumentMoniker": "Assets\\bf1.jpg",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Assets\\bf1.jpg - Bitmap [398x600, 24 bit, JPG]",
-              "RelativeToolTip": "Assets\\bf1.jpg - Bitmap [398x600, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-10-02T14:31:41.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "icons.xaml",
-              "DocumentMoniker": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Assets\\icons.xaml",
-              "RelativeDocumentMoniker": "Assets\\icons.xaml",
-              "ToolTip": "D:\\ASUS\\VS\\Sourse\\FTeamLauncher\\Assets\\icons.xaml",
-              "RelativeToolTip": "Assets\\icons.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-02T14:31:45.133Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

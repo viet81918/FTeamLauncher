@@ -13,5 +13,6 @@ namespace SteamRedesign
     /// </summary>
     public partial class App : Application
     {
+        // notthing to say 
     }
 }

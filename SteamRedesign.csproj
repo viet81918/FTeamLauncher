@@ -160,8 +160,8 @@
     <Resource Include="Assets\wt.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ProjectObjects\ProjectObjects.csproj">
-      <Project>{f53a2883-dd36-4db7-88ef-677dcf76ca75}</Project>
+    <ProjectReference Include="ProjectObject\ProjectObjects.csproj">
+      <Project>{152317a3-5e97-488f-a101-3d7caafb53ca}</Project>
       <Name>ProjectObjects</Name>
     </ProjectReference>
   </ItemGroup>
