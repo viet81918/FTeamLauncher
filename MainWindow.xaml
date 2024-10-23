@@ -13,7 +13,8 @@
         ResizeMode="CanResizeWithGrip"
         WindowStartupLocation="CenterScreen"
         WindowStyle="None"
-        FontSize="15">
+        FontSize="15"
+        Style="{StaticResource {x:Type Window}}">
     <Grid
         Margin="5"
             BitmapEffect="{StaticResource BottomShadowEffect}"
