@@ -2,7 +2,7 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:SteamRedesign"
-             StartupUri="MainWindow.xaml">
+             StartupUri="Login.xaml">
     <Application.Resources>
 
         <!--Icons-->
@@ -91,6 +91,61 @@
                     Color="#00AAEB"
                     Offset="2"/>
             </LinearGradientBrush>
+            <!--Animation-->
+            <Style TargetType="{x:Type Page}">
+                <Style.Triggers>
+                    <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                        <BeginStoryboard>
+                            <Storyboard Storyboard.TargetProperty="Margin" SpeedRatio="5">
+                                <ThicknessAnimation>
+                                    <ThicknessAnimation.From>
+                                        <Thickness 
+                                Left="0"
+                                Top="0"
+                                Bottom="-525"
+                                Right="0"/>
+                                    </ThicknessAnimation.From>
+                                    <ThicknessAnimation.To>
+                                        <Thickness 
+                                Left="0"
+                                Top="0"
+                                Bottom="0"
+                                Right="0"/>
+                                    </ThicknessAnimation.To>
+                                </ThicknessAnimation>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Style.Triggers>
+            </Style>
+
+            <!--Animation for Window-->
+            <Style TargetType="{x:Type Window}">
+                <Style.Triggers>
+                    <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                        <BeginStoryboard>
+                            <Storyboard Storyboard.TargetProperty="Margin" SpeedRatio="5">
+                                <ThicknessAnimation>
+                                    <ThicknessAnimation.From>
+                                        <Thickness 
+                                Left="0"
+                                Top="0"
+                                Bottom="-525"
+                                Right="0"/>
+                                    </ThicknessAnimation.From>
+                                    <ThicknessAnimation.To>
+                                        <Thickness 
+                                Left="0"
+                                Top="0"
+                                Bottom="0"
+                                Right="0"/>
+                                    </ThicknessAnimation.To>
+                                </ThicknessAnimation>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Style.Triggers>
+            </Style>
         </ResourceDictionary>
     </Application.Resources>
 </Application>
